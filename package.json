@@ -1,11 +1,11 @@
 {
   "urls": [
-    ["hybotics_ht16k33/__init__.py", "hybotics_ht16k33/__init__.py"],
-    ["hybotics_ht16k33/bargraph.py", "hybotics_ht16k33/bargraph.py"],
-    ["hybotics_ht16k33/ht16k33.py", "hybotics_ht16k33/ht16k33.py"],
-    ["hybotics_ht16k33/matrix.py", "hybotics_ht16k33/matrix.py"],
-    ["hybotics_ht16k33/multisegs.py", "hybotics_ht16k33/multisegs.py"],
-    ["hybotics_ht16k33/segments.py", "hybotics_ht16k33/segments.py"]
+    ["hybotics_ht16k33/__init__.py", "github:duckida/micropython-ht16k33/hybotics_ht16k33/__init__.py"],
+    ["hybotics_ht16k33/bargraph.py", "github:duckida/micropython-ht16k33/hybotics_ht16k33/bargraph.py"],
+    ["hybotics_ht16k33/ht16k33.py", "github:duckida/micropython-ht16k33/hybotics_ht16k33/ht16k33.py"],
+    ["hybotics_ht16k33/matrix.py", "github:duckida/micropython-ht16k33/hybotics_ht16k33/matrix.py"],
+    ["hybotics_ht16k33/multisegs.py", "github:duckida/micropython-ht16k33/hybotics_ht16k33/multisegs.py"],
+    ["hybotics_ht16k33/segments.py", "github:duckida/micropython-ht16k33/hybotics_ht16k33/segments.py"]
   ],
   "deps": [],
   "version": "1.0.1"
