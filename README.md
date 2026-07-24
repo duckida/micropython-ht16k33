@@ -9,3 +9,5 @@ The code for the matrix displays are here and *should* just work. However, I can
 
 NOTE: At this time, only the 14-segment alphanumeric and 7-segment numeric displays
   have been tested. Others *may* work but have not been tested. Be warned!
+
+This is a fork with MIP support as I added a package.json.
