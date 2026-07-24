@@ -1,8 +1,8 @@
 {
   "urls": [
-    ["ht16k33/__init__.py", "github:duckida/micropython-ht16k33/master/ht16k33/__init__.py"],
-    ["ht16k33/ht16k33.py", "github:duckida/micropython-ht16k33/master/ht16k33/ht16k33.py"],
-    ["ht16k33/ht16k33_matrix.py", "github:duckida/micropython-ht16k33/master/ht16k33/ht16k33_matrix.py"]
+    ["ht16k33/__init__.py", "ht16k33/__init__.py"],
+    ["ht16k33/ht16k33.py", "ht16k33/ht16k33.py"],
+    ["ht16k33/ht16k33_matrix.py", "ht16k33/ht16k33_matrix.py"]
   ],
   "deps": [],
   "version": "1.0.0"
